@@ -115,7 +115,7 @@ In short, formatting tags make web content more readable, structured, and visual
 
 
 
-
+1.<bold>
  → Makes the text bold but does not give any special meaning. It is only for styling.
 Example: Hello → Hello
 
